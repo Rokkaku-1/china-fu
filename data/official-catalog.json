@@ -1,0 +1,852 @@
+{
+  "source": "https://chinafu.pe/",
+  "captured_at": "2026-10-04T18:37:27.908Z",
+  "products": [
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan con Carne",
+      "price": 14,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan Mixto",
+      "price": 15,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan con Kion",
+      "price": 13,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Womin",
+      "price": 13,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Fuchifu",
+      "price": 14,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan c/Langostinos",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "sopa wantan con chancho",
+      "price": 14,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan con pollo",
+      "price": 13,
+      "is_recommended": false
+    },
+    {
+      "category": "Sopas",
+      "name": "Sopa Wantan Especial",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Pollo",
+      "price": 14,
+      "is_recommended": true
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Chancho",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Carne",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa Mas Huevo",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa Mixto",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa Salvaje",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Champiñones",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa Especial",
+      "price": 19,
+      "is_recommended": true
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Chicharron de Pollo",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Pollo en Trozo",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Chaufa",
+      "name": "Chaufa con Langostinos",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín con Pollo",
+      "price": 15,
+      "is_recommended": true
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín con Chancho",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín Mixto",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín frito con Pollo",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín frito con Chancho",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín con Pollo En Trozo",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín con Langostinos",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín Especial",
+      "price": 20,
+      "is_recommended": true
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín Frito con Pollo En Trozo",
+      "price": 23,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín Taypa",
+      "price": 22,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarin Frito Especial",
+      "price": 23,
+      "is_recommended": false
+    },
+    {
+      "category": "Tallarines",
+      "name": "Tallarín Samsi",
+      "price": 23,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Verduras",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Frejolito Chino",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Enrrollado",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Chijaukay",
+      "price": 17,
+      "is_recommended": true
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Chijaukay con Tallarín",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Tipakay (Dulce)",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Limonkay",
+      "price": 19,
+      "is_recommended": true
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Al Ajo",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Piña (dulce)",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Tausi",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Huevo de Codorniz",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Champiñones",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo trozo con piña (Dulce)",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo Trozo Con Verduras",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo con Fideo Chino",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Pollos",
+      "name": "Pollo en Trozo con Durazno",
+      "price": 22,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado con Pollo",
+      "price": 16,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado con Chancho",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado con Carne",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado Mixto",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado con Langostinos",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado Especial",
+      "price": 20,
+      "is_recommended": true
+    },
+    {
+      "category": "Combinados",
+      "name": "Combinado con Pollo Trozo",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Lomos",
+      "name": "Lomo con Pollo",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Lomos",
+      "name": "Lomo con Chancho",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Lomos",
+      "name": "Lomo con Carne",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Lomos",
+      "name": "Lomo con Alita",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Lomos",
+      "name": "Lomo Especial",
+      "price": 20,
+      "is_recommended": true
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Pollo",
+      "price": 15,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Chancho",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Carne",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto Mixto",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Langostinos",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto Especial",
+      "price": 20,
+      "is_recommended": true
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Chicharrón",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Aeropuerto",
+      "name": "Aeropuerto con Pollo Trozo",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Otros Platos",
+      "name": "Taypa con Chaufa",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Otros Platos",
+      "name": "Kamlu Wantan",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Especiales",
+      "name": "Taypa a la Plancha",
+      "price": 35,
+      "is_recommended": true
+    },
+    {
+      "category": "Platos Especiales",
+      "name": "Alitas fritas Especial",
+      "price": 23,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Especiales",
+      "name": "Sajofan Saltado con Carne",
+      "price": 25,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Pollo Chijaukay",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Pollo Verduras",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Pollo Tamarindo",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Pollo Piña",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Kamlu Wantan",
+      "price": 28,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Enrrollado con Pollo trozo Verduras",
+      "price": 29,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Chijaukay con Pollo Verduras",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Chijaukay con Pollo Piña",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Chijaukay con Pollo Tamarindo",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Chijaukay con Kamlu Wantan",
+      "price": 28,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Chijaukay con Pollo trozo Verduras",
+      "price": 29,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Verduras con Pollo Piña",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Verduras con Pollo Tamarindo",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo Verduras con Kamlu Wantan",
+      "price": 28,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo trozo con Piña y Pollo Chijaukay",
+      "price": 29,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo trozo con Piña y Pollo Enrrollado",
+      "price": 29,
+      "is_recommended": false
+    },
+    {
+      "category": "Plato Combinaciones",
+      "name": "Pollo trozo con Verduras con Kamlu Wantan",
+      "price": 31,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Verduras",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Frejolito Chino",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Piña (dulce)",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Tausi",
+      "price": 21,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Champiñones",
+      "price": 22,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos Fritos",
+      "price": 21,
+      "is_recommended": false
+    },
+    {
+      "category": "Langostinos",
+      "name": "Langostinos con Fideo Chino",
+      "price": 21,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla con Pollo",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla con Chancho",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla con Carne",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla con Langostinos",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla Especial",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Tortillas",
+      "name": "Tortilla con Champiñones",
+      "price": 17,
+      "is_recommended": false
+    },
+    {
+      "category": "Alitas",
+      "name": "Alitas con Frejolito Chino",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Alitas",
+      "name": "Alitas con Tamarindo (dulce)",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Alitas",
+      "name": "Alitas con Papas",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Alitas",
+      "name": "Alitas con Tausi",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Alitas",
+      "name": "Alitas Fritas con Champiñones",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Res",
+      "name": "Carne con Verduras",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Res",
+      "name": "Carne con Frejolito",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Res",
+      "name": "Carne con Tausi",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Res",
+      "name": "Carne al Ajo",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Res",
+      "name": "Carne con Champiñones",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Verduras",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Frejolito",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Tamarindo (dulce)",
+      "price": 18,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Tausi",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho al Ajo",
+      "price": 19,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Champiñones",
+      "price": 20,
+      "is_recommended": false
+    },
+    {
+      "category": "Carne de Chancho",
+      "name": "Chancho con Fideo Chino",
+      "price": 21,
+      "is_recommended": false
+    },
+    {
+      "category": "Familiares",
+      "name": "Chaufa Especial Familiar",
+      "price": 70,
+      "is_recommended": false
+    },
+    {
+      "category": "Familiares",
+      "name": "Tallarín Especial Familiar",
+      "price": 75,
+      "is_recommended": false
+    },
+    {
+      "category": "Familiares",
+      "name": "Familiar para 5 Personas",
+      "price": 130,
+      "is_recommended": false
+    },
+    {
+      "category": "Familiares",
+      "name": "Familiar para 8 Personas",
+      "price": 180,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Adicionales",
+      "name": "Chicharrón de Pollo Especial",
+      "price": 27,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Adicionales",
+      "name": "1 Docena de Wantan Frito",
+      "price": 11,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Adicionales",
+      "name": "1 Porción de Arroz Blanco",
+      "price": 5,
+      "is_recommended": false
+    },
+    {
+      "category": "Platos Adicionales",
+      "name": "1 Porción de Arroz Chaufa",
+      "price": 8,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Gaseosa Mediana",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Gaseosa ½ Lt. (gordita)",
+      "price": 5,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Gaseosa de Litro",
+      "price": 7,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Gaseosa de Litro 1/2",
+      "price": 10,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Cerveza",
+      "price": 10,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Agua Mineral",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Limonada",
+      "price": 10,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Fría",
+      "name": "Chicha Morada",
+      "price": 10,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Caliente",
+      "name": "Té",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Caliente",
+      "name": "Té Chino",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Caliente",
+      "name": "Anis",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Caliente",
+      "name": "Manzanilla",
+      "price": 3,
+      "is_recommended": false
+    },
+    {
+      "category": "Bebida Caliente",
+      "name": "Cafe",
+      "price": 3,
+      "is_recommended": false
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "note": "Stock referencial: algunas variantes comparten imagen. No son fotografías de China Fu.",
+  "sources": [
+    {
+      "key": "chaufa",
+      "id": 343871,
+      "source": "https://www.pexels.com/photo/selective-focus-photography-of-fried-rice-in-bowl-343871/",
+      "download": "https://images.pexels.com/photos/343871/pexels-photo-343871.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Jay Abrantes",
+      "alt": "arroz salteado en un cuenco",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 25412
+    },
+    {
+      "key": "chaufa-pollo",
+      "id": 7758253,
+      "source": "https://www.pexels.com/photo/appetizing-asian-dish-with-rice-7758253/",
+      "download": "https://images.pexels.com/photos/7758253/pexels-photo-7758253.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Nadim Shaikh",
+      "alt": "arroz acompañado de pollo",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 81132
+    },
+    {
+      "key": "sopa",
+      "id": 21517330,
+      "source": "https://www.pexels.com/photo/noodles-with-vegetables-and-dumplings-21517330/",
+      "download": "https://images.pexels.com/photos/21517330/pexels-photo-21517330.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Change C.C",
+      "alt": "sopa con fideos, verduras y dumplings",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 56760
+    },
+    {
+      "key": "tallarin",
+      "id": 4518686,
+      "source": "https://www.pexels.com/photo/noodle-dish-with-shrimp-on-white-ceramic-plate-4518686/",
+      "download": "https://images.pexels.com/photos/4518686/pexels-photo-4518686.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Polina Tankilevitch",
+      "alt": "fideos salteados con langostinos",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 62650
+    },
+    {
+      "key": "tallarin-verduras",
+      "id": 6718708,
+      "source": "https://www.pexels.com/photo/noodles-with-vegetables-and-shrimps-on-white-ceramic-plate-6718708/",
+      "download": "https://images.pexels.com/photos/6718708/pexels-photo-6718708.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Son Tung Tran",
+      "alt": "fideos con verduras y langostinos",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 61462
+    },
+    {
+      "key": "pollo",
+      "id": 13065209,
+      "source": "https://www.pexels.com/photo/close-up-shot-of-a-dish-on-a-plate-13065209/",
+      "download": "https://images.pexels.com/photos/13065209/pexels-photo-13065209.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Marvin Sacdalan",
+      "alt": "pollo salteado con verduras",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 44638
+    },
+    {
+      "key": "pollo-crujiente",
+      "id": 28992234,
+      "source": "https://www.pexels.com/photo/crispy-fried-chicken-on-dark-plate-28992234/",
+      "download": "https://images.pexels.com/photos/28992234/pexels-photo-28992234.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "pollo frito crujiente",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 67110
+    },
+    {
+      "key": "mixto",
+      "id": 37743310,
+      "source": "https://www.pexels.com/photo/delicious-peruvian-chinese-stir-fry-overhead-view-37743310/",
+      "download": "https://images.pexels.com/photos/37743310/pexels-photo-37743310.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "salteado de inspiración chifa",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 69032
+    },
+    {
+      "key": "langostinos",
+      "id": 4402046,
+      "source": "https://www.pexels.com/photo/cooked-food-on-white-ceramic-plate-4402046/",
+      "download": "https://images.pexels.com/photos/4402046/pexels-photo-4402046.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Jianqiang Liao",
+      "alt": "langostinos con verduras",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 65860
+    },
+    {
+      "key": "tortilla",
+      "id": 11654228,
+      "source": "https://www.pexels.com/photo/egg-omelette-on-white-ceramic-plate-11654228/",
+      "download": "https://images.pexels.com/photos/11654228/pexels-photo-11654228.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "tortilla de huevo",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 37680
+    },
+    {
+      "key": "alitas",
+      "id": 29908653,
+      "source": "https://www.pexels.com/photo/savory-glazed-chicken-wings-platter-29908653/",
+      "download": "https://images.pexels.com/photos/29908653/pexels-photo-29908653.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "alitas glaseadas",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 84858
+    },
+    {
+      "key": "res",
+      "id": 34429558,
+      "source": "https://www.pexels.com/photo/sizzling-beef-stir-fry-with-vegetables-in-pan-34429558/",
+      "download": "https://images.pexels.com/photos/34429558/pexels-photo-34429558.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "carne de res salteada con verduras",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 74882
+    },
+    {
+      "key": "chancho",
+      "id": 27039848,
+      "source": "https://www.pexels.com/photo/a-white-plate-with-food-on-it-on-a-table-27039848/",
+      "download": "https://images.pexels.com/photos/27039848/pexels-photo-27039848.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Change C.C",
+      "alt": "carne de chancho con verduras",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 30032
+    },
+    {
+      "key": "arroz-blanco",
+      "id": 17563535,
+      "source": "https://www.pexels.com/photo/rice-17563535/",
+      "download": "https://images.pexels.com/photos/17563535/pexels-photo-17563535.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Jubair Bin Iqbal",
+      "alt": "arroz blanco servido en un cuenco",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 36938
+    },
+    {
+      "key": "wantan",
+      "id": 16845336,
+      "source": "https://www.pexels.com/photo/fried-dumplings-on-a-plate-16845336/",
+      "download": "https://images.pexels.com/photos/16845336/pexels-photo-16845336.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Huzaifa Bukhari",
+      "alt": "dumplings fritos",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 78358
+    },
+    {
+      "key": "gaseosa",
+      "id": 14973056,
+      "source": "https://www.pexels.com/photo/close-up-of-cola-with-ice-14973056/",
+      "download": "https://images.pexels.com/photos/14973056/pexels-photo-14973056.png?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Lin Yu",
+      "alt": "gaseosa con hielo",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 24494
+    },
+    {
+      "key": "cerveza",
+      "id": 5858214,
+      "source": "https://www.pexels.com/photo/close-up-shot-of-glasses-of-beer-on-a-wooden-table-5858214/",
+      "download": "https://images.pexels.com/photos/5858214/pexels-photo-5858214.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Pavel Danilyuk",
+      "alt": "cerveza en vasos",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 38632
+    },
+    {
+      "key": "agua",
+      "id": 25595771,
+      "source": "https://www.pexels.com/photo/glass-of-water-on-a-table-25595771/",
+      "download": "https://images.pexels.com/photos/25595771/pexels-photo-25595771.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Jonathan Santiago",
+      "alt": "vaso de agua",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 28974
+    },
+    {
+      "key": "limonada",
+      "id": 18142613,
+      "source": "https://www.pexels.com/photo/glass-of-lemonade-18142613/",
+      "download": "https://images.pexels.com/photos/18142613/pexels-photo-18142613.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "vaso de limonada",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 14334
+    },
+    {
+      "key": "bebida-morada",
+      "id": 14556360,
+      "source": "https://www.pexels.com/photo/purple-juice-in-a-glass-and-sweets-standing-in-sunlight-14556360/",
+      "download": "https://images.pexels.com/photos/14556360/pexels-photo-14556360.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": "Aida Hadid",
+      "alt": "bebida de color morado",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 40238
+    },
+    {
+      "key": "te",
+      "id": 31959376,
+      "source": "https://www.pexels.com/photo/elegant-display-of-black-tea-with-tea-cup-31959376/",
+      "download": "https://images.pexels.com/photos/31959376/pexels-photo-31959376.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "té servido en una taza",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 45110
+    },
+    {
+      "key": "cafe",
+      "id": 302904,
+      "source": "https://www.pexels.com/photo/selective-focus-photography-coffee-cup-on-board-302904/",
+      "download": "https://images.pexels.com/photos/302904/pexels-photo-302904.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "author": null,
+      "alt": "taza de café",
+      "license": "https://www.pexels.com/license/",
+      "bytes": 25750
+    }
+  ]
+}

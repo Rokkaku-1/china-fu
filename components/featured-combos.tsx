@@ -1,0 +1,8 @@
+import type {Product} from '@/lib/types';
+import {money,comboDiscount} from '@/lib/combos';
+import DishPhoto from './dish-photo';
+export default function FeaturedCombos({products,onAdd,disabled}:{products:Product[];onAdd:(product:Product)=>void;disabled:boolean}){
+ const featured=products.filter(p=>p.combo?.featured&&p.combo.active).slice(0,2);
+ if(!featured.length)return null;
+ return <section className="featured-combos" aria-label="Combos destacados"><div className="combo-section-heading"><span className="eyebrow">MÁS PARA COMPARTIR</span><h2>Una mesa. <em>Más sabor.</em></h2></div><div className={'combo-promotions'+(featured.length===2?' combo-promotions--two':'')}>{featured.map(p=><article className="combo-promotion" key={p.id}><div className="combo-promotion-copy"><span className="combo-label">COMBO DESTACADO</span><h3>{p.name}</h3><p className="combo-includes">{p.description}</p><div className="combo-promotion-price"><strong>{money(Number(p.price))}</strong>{Number(p.combo?.normal_price)>Number(p.price)&&<><del aria-label={'Precio por separado '+money(Number(p.combo?.normal_price))}>{money(Number(p.combo?.normal_price))}</del><span>Ahorras {money(comboDiscount(Number(p.price),Number(p.combo?.normal_price)))}</span></>}</div><button className="primary" disabled={disabled} onClick={()=>onAdd(p)} aria-label={'Agregar '+p.name+' al carrito'}>Agregar al carrito →</button><small>Selección fija · Sin cambios de platos</small></div><div className="combo-promotion-image"><DishPhoto name={p.combo?.image_name||p.name} category={p.combo?.image_category||'Chaufas'} imageUrl={p.image_url}/><span className="combo-promotion-seal" aria-hidden="true">福</span></div></article>)}</div></section>;
+}
